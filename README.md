@@ -5,3 +5,7 @@
 - Proficient in analyzing and translating business requirements to technical requirements and architecture. 
 - Strong database skills, Object Oriented Programming and development knowledge, experience in leading and managing teams. 
 - Handled multiple roles - Project Lead and Developer. Good communication skills, interpersonal skills, self-motivated, quick learner, team player.
+
+
+#### Check out my complete Resume 
+https://gauravkumarsingh232.github.io/resume/
